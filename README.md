@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Ebidir
-- 👀 I’m interested in ...# Ebidir – Smart Cashflow & Payment Engine  
+- 👋 Hi, this is eBIDIR/ Africa's first AI powered credit OS for SMEs
 ### Authored by Alazar Solomon Kebede
 
 ## Description
